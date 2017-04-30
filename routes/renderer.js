@@ -4,7 +4,7 @@ var fs = require('fs');
 var os = require('os');
 
 router.get('/', function (req, res) {
-	return res.send("sub thinggg");
+	return res.send("sub thinggg 2");
 });
 
 
